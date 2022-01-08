@@ -31,7 +31,13 @@ int main(){
    cin>>b;
    int sum=0;
    sum = a+b;
-   cout<<sum<<endl;
+   cout<<"the sume of the a+b is " << sum <<endl;
+
+
+
+
+
+   
    return 0;
 
    
